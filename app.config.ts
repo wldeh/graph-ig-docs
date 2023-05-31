@@ -10,7 +10,7 @@ export default defineAppConfig({
     image: 'https://content.nuxtjs.org/preview.png',
     url: 'https://content.nuxtjs.org',
     socials: {
-      twitter: '@nuxt_js',
+      twitter: '',
       github: 'nuxt/content'
     },
     github: {
